@@ -15,6 +15,7 @@ I've developed a wide range of skills over my career. I'm an expert in some area
 - **Network Administration**: DDoS Mitigation, Cloudflare, UFW, IPTables, WireGuard, OpenVPN, Tailscale
 - **Automation**: Selenium, Pupeteer & Playwright
 - **Project Management**: Jira, Trello, Notion, Atlas, Confluence
+- **CMS**: Wordpress, Directus
 - **Others**: RESTful APIs, OAuth, JWT
 
 ## 🚀 My Projects
